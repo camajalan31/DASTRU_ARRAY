@@ -1,0 +1,16 @@
+C:\Users\ACT-STUDENT\Desktop\Camajalan_ControlStructures\Camajalan_ControlStructures\bin\Debug\Camajalan_ControlStructures.exe.config
+C:\Users\ACT-STUDENT\Desktop\Camajalan_ControlStructures\Camajalan_ControlStructures\bin\Debug\Camajalan_ControlStructures.exe
+C:\Users\ACT-STUDENT\Desktop\Camajalan_ControlStructures\Camajalan_ControlStructures\bin\Debug\Camajalan_ControlStructures.pdb
+C:\Users\ACT-STUDENT\Desktop\Camajalan_ControlStructures\Camajalan_ControlStructures\obj\Debug\Camajalan_ControlStructures.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\Camajalan_ControlStructures\Camajalan_ControlStructures\obj\Debug\Camajalan_ControlStructures.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\Camajalan_ControlStructures\Camajalan_ControlStructures\obj\Debug\Camajalan_ControlStructures.exe
+C:\Users\ACT-STUDENT\Desktop\Camajalan_ControlStructures\Camajalan_ControlStructures\obj\Debug\Camajalan_ControlStructures.pdb
+C:\Users\ACT-STUDENT\Desktop\Camajalan_ControlStructures\Camajalan_ControlStructures\obj\Debug\Camajalan_ControlStructures.exe.config
+C:\Users\ACT-STUDENT\Downloads\Camajalan_ControlStructures\Camajalan_ControlStructures\bin\Debug\Camajalan_ControlStructures.exe.config
+C:\Users\ACT-STUDENT\Downloads\Camajalan_ControlStructures\Camajalan_ControlStructures\bin\Debug\Camajalan_ControlStructures.exe
+C:\Users\ACT-STUDENT\Downloads\Camajalan_ControlStructures\Camajalan_ControlStructures\bin\Debug\Camajalan_ControlStructures.pdb
+C:\Users\ACT-STUDENT\Downloads\Camajalan_ControlStructures\Camajalan_ControlStructures\obj\Debug\Camajalan_ControlStructures.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Downloads\Camajalan_ControlStructures\Camajalan_ControlStructures\obj\Debug\Camajalan_ControlStructures.exe.config
+C:\Users\ACT-STUDENT\Downloads\Camajalan_ControlStructures\Camajalan_ControlStructures\obj\Debug\Camajalan_ControlStructures.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Downloads\Camajalan_ControlStructures\Camajalan_ControlStructures\obj\Debug\Camajalan_ControlStructures.exe
+C:\Users\ACT-STUDENT\Downloads\Camajalan_ControlStructures\Camajalan_ControlStructures\obj\Debug\Camajalan_ControlStructures.pdb
