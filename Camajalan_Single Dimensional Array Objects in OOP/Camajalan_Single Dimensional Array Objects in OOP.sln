@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Camajalan_Single Dimensional Array Objects in OOP", "Camajalan_Single Dimensional Array Objects in OOP\Camajalan_Single Dimensional Array Objects in OOP.csproj", "{B0BD3F0E-72EC-428C-967C-46D9894340D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0BD3F0E-72EC-428C-967C-46D9894340D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0BD3F0E-72EC-428C-967C-46D9894340D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0BD3F0E-72EC-428C-967C-46D9894340D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0BD3F0E-72EC-428C-967C-46D9894340D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8293F988-7B8E-4E94-92E9-09D4BF13C1B1}
+	EndGlobalSection
+EndGlobal
