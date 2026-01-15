@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAMAJALAN_2D Array of Objects", "CAMAJALAN_2D Array of Objects\CAMAJALAN_2D Array of Objects.csproj", "{19CACCEF-50BF-4094-9E9B-00E13F3C90FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19CACCEF-50BF-4094-9E9B-00E13F3C90FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19CACCEF-50BF-4094-9E9B-00E13F3C90FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19CACCEF-50BF-4094-9E9B-00E13F3C90FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19CACCEF-50BF-4094-9E9B-00E13F3C90FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DCD377F-AEDB-4A43-84C3-631800B14CAD}
+	EndGlobalSection
+EndGlobal
